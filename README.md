@@ -15,3 +15,7 @@
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=#1E90FF)
 ![Webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=#87CEFA)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm&logoColor=#A52A2A)
+
+## Follow Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram&logoColor=#00BFFF)](https://t.me/Grogupa)
