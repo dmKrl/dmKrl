@@ -19,3 +19,6 @@
 ## Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram&logoColor=#00BFFF)](https://t.me/Grogupa)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=#4682B4)](https://www.linkedin.com/in/krldmitrya)
+[![Instagram](https://img.shields.io/badge/Instagram-%2320232a.svg?style=for-the-badge&logo=Instagram&logoColor=#FF7F50)](https://www.instagram.com/dm_krl)
+[![Gmail](https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=#FF6347)](https://www.gmail.com/kralichkin.dmitry@gmail.com)
