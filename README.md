@@ -1,4 +1,4 @@
-[![Header](https://github.com/dmKrl/dmKrl/blob/main/assets/header-white.png)](https://github.com/dmKrl)
+[![Header](https://github.com/dmKrl/dmKrl/blob/main/assets/header-black.png)](https://github.com/dmKrl)
 
 ## I'm Junior Frontend developer
 
@@ -14,4 +14,4 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=white)
