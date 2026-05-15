@@ -16,6 +16,9 @@
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=#1E90FF)
 ![Webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=#87CEFA)
 ![Vite](https://img.shields.io/badge/VITE-%23262729?style=for-the-badge&logo=vite&logoColor=%239135FF)
+![Cypress](https://img.shields.io/badge/CYPRESS-%23262729?style=for-the-badge&logo=cypress&logoColor=%2369D3A7)
+![Jest](https://img.shields.io/badge/JEST-%23262729?style=for-the-badge&logo=jest&logoColor=%23C21325)
+![NextJS](https://img.shields.io/badge/NextJs-%23262729?style=for-the-badge&logo=nextdotjs&logoColor=%23000000)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm&logoColor=#A52A2A)
 
 ## Follow Me
