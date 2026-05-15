@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=#4682B4)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=#1E90FF)
 ![Webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=#87CEFA)
+![Vite](https://img.shields.io/badge/VITE-%23262729?style=for-the-badge&logo=vite&logoColor=%239135FF)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm&logoColor=#A52A2A)
 
 ## Follow Me
